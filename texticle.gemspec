@@ -1,6 +1,7 @@
 # -*- encoding: utf-8 -*-
 
-require File.expand_path('../lib/texticle', __FILE__)
+#require File.expand_path('../lib/texticle', __FILE__)
+require './lib/texticle'
 
 Gem::Specification.new do |s|
   s.name    = 'texticle'
